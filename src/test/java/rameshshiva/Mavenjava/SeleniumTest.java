@@ -13,6 +13,15 @@ public class SeleniumTest {
 		System.out.println("SeleniumTest5");
 		
 		System.out.println("clone forties changed ");
+		
+		System.out.println("gitstuff forties changed ");
+		
+		System.out.println("SeleniumTest5");
+		System.out.println("SeleniumTest6");
+		System.out.println("SeleniumTest7");
+		System.out.println("SeleniumTest8");
+		System.out.println("SeleniumTest9");
+		System.out.println("SeleniumTest10");
 	}
 	
 	
